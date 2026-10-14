@@ -1,0 +1,6 @@
+{
+  "name": "NutriGuard - Clinical Food Safety & Label Analyzer",
+  "description": "Analyzes food labels and meal images against patient medical profiles (hypertension, diabetes, allergens) with safety ratings, clinical explanations, and alternatives.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
